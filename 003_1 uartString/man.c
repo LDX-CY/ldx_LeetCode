@@ -20,7 +20,7 @@ void string(char* s, End* end)
 			return;
 	}	
 	if (num != 453)
-		return;
+			return;		
 	end->string = 111;
 	while (s[++Right] != '\0')
 	{
