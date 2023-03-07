@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004 findMedianSortedArrays"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005 longestPalindrome", "005 longestPalindrome\005 longestPalindrome.vcxproj", "{42345CA3-A468-49BB-859E-92576CC6EC9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006 convert", "006 convert\006 convert.vcxproj", "{530B3B75-FD3D-4C06-B024-9D5EB069185B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{42345CA3-A468-49BB-859E-92576CC6EC9D}.Release|x64.Build.0 = Release|x64
 		{42345CA3-A468-49BB-859E-92576CC6EC9D}.Release|x86.ActiveCfg = Release|Win32
 		{42345CA3-A468-49BB-859E-92576CC6EC9D}.Release|x86.Build.0 = Release|Win32
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Debug|x64.ActiveCfg = Debug|x64
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Debug|x64.Build.0 = Debug|x64
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Debug|x86.ActiveCfg = Debug|Win32
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Debug|x86.Build.0 = Debug|Win32
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Release|x64.ActiveCfg = Release|x64
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Release|x64.Build.0 = Release|x64
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Release|x86.ActiveCfg = Release|Win32
+		{530B3B75-FD3D-4C06-B024-9D5EB069185B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
