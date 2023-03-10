@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007 reverse", "007 reverse\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008 myAtoi", "008 myAtoi\008 myAtoi.vcxproj", "{45EB87D9-D3F4-4D7C-A3FC-C6EB363304C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "isPalindrome", "isPalindrome\isPalindrome.vcxproj", "{2A3AF11D-064B-476E-904F-CB0878FF3FB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{45EB87D9-D3F4-4D7C-A3FC-C6EB363304C1}.Release|x64.Build.0 = Release|x64
 		{45EB87D9-D3F4-4D7C-A3FC-C6EB363304C1}.Release|x86.ActiveCfg = Release|Win32
 		{45EB87D9-D3F4-4D7C-A3FC-C6EB363304C1}.Release|x86.Build.0 = Release|Win32
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Debug|x64.ActiveCfg = Debug|x64
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Debug|x64.Build.0 = Debug|x64
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Debug|x86.Build.0 = Debug|Win32
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Release|x64.ActiveCfg = Release|x64
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Release|x64.Build.0 = Release|x64
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Release|x86.ActiveCfg = Release|Win32
+		{2A3AF11D-064B-476E-904F-CB0878FF3FB6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
